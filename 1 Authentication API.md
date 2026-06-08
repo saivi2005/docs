@@ -26,7 +26,7 @@ Provides authentication, user profile management, Two-Factor Authentication (2FA
     *   Download Certificates
     *   Verify Certificate
 
-**General API Information**
+[**General API Information**]
 
 *   The base endpoint depends on the application deployment environment.
 *   All endpoints return JSON responses.
