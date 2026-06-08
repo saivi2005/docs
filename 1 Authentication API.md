@@ -47,11 +47,11 @@ Authorization: Bearer <access\_token>
 Public Endpoints:
 
 #### Request
-'''http
+
 POST /api/auth/google
 
 POST /api/auth/2fa/verify
-'''http
+
 
 All other endpoints require authentication.
 
