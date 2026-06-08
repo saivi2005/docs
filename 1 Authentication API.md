@@ -46,6 +46,8 @@ Authorization: Bearer <access\_token>
 
 Public Endpoints:
 
+#### Request
+
 POST /api/auth/google
 
 POST /api/auth/2fa/verify
